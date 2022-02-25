@@ -1,4 +1,4 @@
 # machine_learning
-Simple machine learning examples
+Machine learning example
 
-ml_example_boulder_colorado_temperature is an example decision tree that predicts 2-m temperature in Boulder, Colorado based on relative humidity, month, and wind direction. Data from 2011 to 2020 are used.
+ml_example_boulder_colorado_temperature is an example random forest that predicts 2-m temperature in Boulder, Colorado based on relative humidity, wind speed, wind direction, hour, month, year, and day.
